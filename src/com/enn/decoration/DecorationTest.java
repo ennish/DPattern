@@ -7,5 +7,4 @@ public class DecorationTest {
 		EggWithPaper f1 = new EggWithPaper(new BaseMeal());
 		System.out.println(f1.cost());
 	}
-
 }
